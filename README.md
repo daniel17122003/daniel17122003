@@ -1,9 +1,9 @@
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Daniel</h2>
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Daniel Pavun Raj R</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I’m passionate about software development and building user-friendly digital experiences.\
-🎓 &nbsp;Completed B.Tech Information Technology (2021–2025) at V.S.B. Engineering College, Karur.
+🎓 &nbsp;Completed B.Tech Information Technology (2021–2025) at V.S.B. Engineering College, Karur.\
 🌱 &nbsp;Strong in **Java programming** and **Object-Oriented Programming** concepts.\
 💼 &nbsp;Completed a **Web Development Internship** at Astro Web Solution.\
 ✉️ &nbsp;Reach me at **danieldaniel6884@gmail.com** for projects, collaboration, or just a good tech chat.
@@ -23,24 +23,24 @@
 
 ### 🧠 &nbsp;Certifications
 
-   📘 NPTEL – Programming in Java (Jul–Oct 2023)\
-   🏅 Wipro TalentNext (Oct 2024)\
-   🛠️ Software Engineering & Agile (Feb 2022)
+📘 NPTEL – Programming in Java (Jul–Oct 2023)\
+🏅 Wipro TalentNext (Oct 2024)\
+🛠️ Software Engineering & Agile (Feb 2022)
 
 ### 🚀 &nbsp;Projects
 
- 🔗 [QR Code Generator](https://github.com/daniel17122003/QR-Code-Generator): Built a responsive QR code generator with download functionality.\
- 🛒 [E-Commerce Website](https://github.com/daniel17122003/E-Commerce-Website): A modern, responsive online store with product display, search, and social integration.
+🔗 [QR Code Generator](https://github.com/daniel17122003/QR-Code-Generator): Built a responsive QR code generator with download functionality.\
+🛒 [E-Commerce Website](https://github.com/daniel17122003/E-Commerce-Website): A modern, responsive online store with product display, search, and social integration.
 
 ### 🎤 &nbsp;Paper Presentation
 
- 🧠 **AI & Its Applications** – Presented at Karpagam Institute of Technology, Coimbatore
+🧠 **AI & Its Applications** – Presented at Karpagam Institute of Technology, Coimbatore
 
 ### 🧩 &nbsp;Other Interests
 
- 🤝 Teamwork & Adaptability\
- 🎧 Listening to Music\
- 👨‍💻 Competitive Programming
+🤝 Teamwork & Adaptability\
+🎧 Listening to Music\
+👨‍💻 Competitive Programming
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -57,6 +57,7 @@
 <a href="mailto:danieldaniel6884@gmail.com"><img src="https://img.shields.io/badge/-danieldaniel6884@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/daniel-pavun-raj-r-460019281"><img src="https://img.shields.io/badge/-Daniel%20Pavun%20Raj%20R-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://github.com/daniel17122003"><img src="https://img.shields.io/badge/-daniel17122003-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/itz_mi_daniel/?hl=en"><img src="https://img.shields.io/badge/-@itz_mi_daniel-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 -----
