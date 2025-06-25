@@ -3,10 +3,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I’m passionate about software development and building user-friendly digital experiences.\
-🎓 &nbsp;Final-year B.Tech. student in Information Technology at V.S.B. Engineering College, Karur.\
+🎓 &nbsp;Completed B.Tech Information Technology (2021–2025) at V.S.B. Engineering College, Karur.
 🌱 &nbsp;Strong in **Java programming** and **Object-Oriented Programming** concepts.\
-💼 &nbsp;Completed a **Web Development Internship** at Astro Web Solution using HTML and CSS.\
-📌 &nbsp;Currently learning **JavaScript (basic)** and improving frontend/backend development skills.\
+💼 &nbsp;Completed a **Web Development Internship** at Astro Web Solution.\
 ✉️ &nbsp;Reach me at **danieldaniel6884@gmail.com** for projects, collaboration, or just a good tech chat.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
