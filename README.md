@@ -6,7 +6,7 @@
 🎓 &nbsp;Completed B.Tech Information Technology (2021–2025) at V.S.B. Engineering College, Karur.
 🌱 &nbsp;Strong in **Java programming** and **Object-Oriented Programming** concepts.\
 💼 &nbsp;Completed a **Web Development Internship** at Astro Web Solution.\
-✉️ &nbsp;Reach me at **danieldaniel6884@gmail.com** for projects, collaboration, or just a good tech chat.\
+✉️ &nbsp;Reach me at **danieldaniel6884@gmail.com** for projects, collaboration, or just a good tech chat.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -25,12 +25,12 @@
 
    📘 NPTEL – Programming in Java (Jul–Oct 2023)\
    🏅 Wipro TalentNext (Oct 2024)\
-   🛠️ Software Engineering & Agile (Feb 2022)\
+   🛠️ Software Engineering & Agile (Feb 2022)
 
 ### 🚀 &nbsp;Projects
 
  🔗 [QR Code Generator](https://github.com/daniel17122003/QR-Code-Generator): Built a responsive QR code generator with download functionality.\
- 🛒 [E-Commerce Website](https://github.com/daniel17122003/E-Commerce-Website): A modern, responsive online store with product display, search, and social integration.\
+ 🛒 [E-Commerce Website](https://github.com/daniel17122003/E-Commerce-Website): A modern, responsive online store with product display, search, and social integration.
 
 ### 🎤 &nbsp;Paper Presentation
 
@@ -40,7 +40,7 @@
 
  🤝 Teamwork & Adaptability\
  🎧 Listening to Music\
- 👨‍💻 Competitive Programming\
+ 👨‍💻 Competitive Programming
 
 ### ⚙️ &nbsp;GitHub Analytics
 
