@@ -1,14 +1,12 @@
-![Daniel Pavun Raj Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Daniel</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I’m passionate about software development and building user-friendly digital experiences.\
 🎓 &nbsp;Final-year B.Tech. student in Information Technology at V.S.B. Engineering College, Karur.\
-🌱 &nbsp;Actively learning Java, Object-Oriented Programming, and web development (HTML/CSS/JS).\
-💼 &nbsp;Completed a **Web Development Internship** at Astro Web Solution, focusing on responsive UI and performance optimization.\
-📌 &nbsp;Interested in roles related to front-end/backend development, and software engineering.\
+🌱 &nbsp;Strong in **Java programming** and **Object-Oriented Programming** concepts.\
+💼 &nbsp;Completed a **Web Development Internship** at Astro Web Solution using HTML and CSS.\
+📌 &nbsp;Currently learning **JavaScript (basic)** and improving frontend/backend development skills.\
 ✉️ &nbsp;Reach me at **danieldaniel6884@gmail.com** for projects, collaboration, or just a good tech chat.\
 📄 &nbsp;Here’s my [Résumé](mailto:danieldaniel6884@gmail.com) — feedback is always welcome!
 
@@ -20,6 +18,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript (Basic)](https://img.shields.io/badge/-JavaScript%20(Basic)-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
