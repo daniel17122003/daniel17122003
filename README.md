@@ -14,6 +14,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript (Basic)](https://img.shields.io/badge/-JavaScript%20(Basic)-05122A?style=flat&logo=javascript)&nbsp;
