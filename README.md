@@ -23,14 +23,14 @@
 
 ### 🧠 &nbsp;Certifications
 
- 📘 NPTEL – Programming in Java (Jul–Oct 2023)
- 🏅 Wipro TalentNext (Oct 2024)
- 🛠️ Software Engineering & Agile (Feb 2022)
+   📘 NPTEL – Programming in Java (Jul–Oct 2023)\
+   🏅 Wipro TalentNext (Oct 2024)\
+   🛠️ Software Engineering & Agile (Feb 2022)\
 
 ### 🚀 &nbsp;Projects
 
- 🔗 [QR Code Generator](https://github.com/daniel17122003/QR-Code-Generator): Built a responsive QR code generator with download functionality.
- 🛒 [E-Commerce Website](https://github.com/daniel17122003/E-Commerce-Website): A modern, responsive online store with product display, search, and social integration.
+ 🔗 [QR Code Generator](https://github.com/daniel17122003/QR-Code-Generator): Built a responsive QR code generator with download functionality.\
+ 🛒 [E-Commerce Website](https://github.com/daniel17122003/E-Commerce-Website): A modern, responsive online store with product display, search, and social integration.\
 
 ### 🎤 &nbsp;Paper Presentation
 
@@ -38,9 +38,9 @@
 
 ### 🧩 &nbsp;Other Interests
 
- 🤝 Teamwork & Adaptability
- 🎧 Listening to Music
- 👨‍💻 Competitive Programming
+ 🤝 Teamwork & Adaptability\
+ 🎧 Listening to Music\
+ 👨‍💻 Competitive Programming\
 
 ### ⚙️ &nbsp;GitHub Analytics
 
