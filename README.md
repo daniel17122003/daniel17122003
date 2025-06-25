@@ -8,7 +8,6 @@
 💼 &nbsp;Completed a **Web Development Internship** at Astro Web Solution using HTML and CSS.\
 📌 &nbsp;Currently learning **JavaScript (basic)** and improving frontend/backend development skills.\
 ✉️ &nbsp;Reach me at **danieldaniel6884@gmail.com** for projects, collaboration, or just a good tech chat.\
-📄 &nbsp;Here’s my [Résumé](mailto:danieldaniel6884@gmail.com) — feedback is always welcome!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -25,8 +24,8 @@
 
 ### 🧠 &nbsp;Certifications
 
-- 📘 NPTEL – Programming in Java (Jul–Oct 2023)\
-- 🏅 Wipro TalentNext (Oct 2024)\
+- 📘 NPTEL – Programming in Java (Jul–Oct 2023)
+- 🏅 Wipro TalentNext (Oct 2024)
 - 🛠️ Software Engineering & Agile (Feb 2022)
 
 ### 🚀 &nbsp;Projects
